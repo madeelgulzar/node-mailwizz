@@ -2,7 +2,7 @@ const Request = require('./Request');
 
 const path = '/campaigns/';
 
-class Campaigns extends Request {
+class CampaignBounces extends Request {
     constructor(config) {
         super(config);
     }
@@ -19,4 +19,4 @@ class Campaigns extends Request {
     }
 }
 
-module.exports = Campaigns;
+module.exports = CampaignBounces;
