@@ -1,6 +1,6 @@
 {
   "name": "@adeelgulzar/nodemailwizz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MailWizz implementation",
   "author": "Adeel Gulzar <madeelgulzar@gmail.com>",
   "main": "index.js",
